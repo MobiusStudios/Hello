@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Peter 是谁？
+title: Xiangqi 是谁？
 ---
 
 

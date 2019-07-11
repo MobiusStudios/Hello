@@ -3,8 +3,8 @@ layout: default
 title: Xiangqi's Corner
 ---
 
-Hi there, I am Peter Wang, an [Open Source][oss] enthusiast. This site is
-dedicated to providing information about [me](resume.html) and [what I do](/work).
+Hi there, I am Xiangqi, an [Open Source][oss] enthusiast. This site is
+dedicated to providing information about [me](resume.html) and [what I do](work).
 
 
 <p><br /><b>My Blog:</b></p>
