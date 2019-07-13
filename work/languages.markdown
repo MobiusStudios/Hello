@@ -56,7 +56,7 @@ _2008:_ attended a presentation by a smart teacher, teaching me how to draw a
 turtle with Java, I liked it, but that did not persuade me to start to learn
 this language.
 
-_2009:_ was told that Google Adriod was built with Java, and I got shocked,
+_2009:_ was told that Google Andriod was built with Java, and I got shocked,
 since I always tought Java as a scripting langauge is not fast enough for
 embedded use. But Google just did it, and solve some problems by maintaining
 their own branch of Java Libs.
